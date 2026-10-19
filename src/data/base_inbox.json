@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MSG-BASE-001",
+    "sender_name": "Alex Carter",
+    "sender_email": "alex.carter@designcraft.io",
+    "date_received": "2026-10-17T09:15:00Z",
+    "subject": "Status update on Senior Product Designer interview",
+    "applied_role": "Senior Product Designer",
+    "stage": "Post-Onsite Panel",
+    "body": "Hi HR Team,\n\nI hope you're having a productive week! I really enjoyed meeting with the design and engineering leads last Thursday during our virtual onsite.\n\nI'm following up to see if there are any updates regarding next steps or timelines for feedback. I'm very excited about the design system and typography challenges we discussed and would love the opportunity to contribute to the team.\n\nBest regards,\nAlex Carter"
+  },
+  {
+    "id": "MSG-BASE-002",
+    "sender_name": "Priya Sharma",
+    "sender_email": "priya.sharma@cloudtech.dev",
+    "date_received": "2026-10-17T11:30:00Z",
+    "subject": "Request to reschedule Technical Screen tomorrow",
+    "applied_role": "Staff Backend Engineer (Distributed Systems)",
+    "stage": "Technical Screen",
+    "body": "Dear Recruiting Team,\n\nI am currently scheduled for a 60-minute technical coding screen with the infrastructure team tomorrow, Wednesday at 2:00 PM EST.\n\nUnfortunately, an urgent production incident at my current workplace requires my direct oversight all afternoon tomorrow. Would it be possible to reschedule our conversation to Thursday or Friday afternoon? I am fully free anytime after 1:00 PM EST on both days.\n\nI apologize for any inconvenience this may cause and appreciate your flexibility.\n\nThank you,\nPriya Sharma"
+  },
+  {
+    "id": "MSG-BASE-003",
+    "sender_name": "Marcus Vance",
+    "sender_email": "m.vance@techdev.net",
+    "date_received": "2026-10-17T14:10:00Z",
+    "subject": "Inquiry regarding salary band and equity structure",
+    "applied_role": "Principal Cloud Architect",
+    "stage": "Hiring Manager Screen",
+    "body": "Hello Talent Team,\n\nThank you for inviting me to interview for the Principal Cloud Architect role. Before our upcoming conversation with the Engineering Director, I wanted to clarify the approved compensation range for this level.\n\nCould you also share high-level details regarding whether equity is granted as RSUs or stock options, and the standard vesting schedule? Having this benchmark will help ensure our expectations are aligned from the start.\n\nWarm regards,\nMarcus Vance"
+  },
+  {
+    "id": "MSG-BASE-004",
+    "sender_name": "Elena Rostova",
+    "sender_email": "elena.rostova@cloudscale.io",
+    "date_received": "2026-10-17T16:45:00Z",
+    "subject": "Withdrawing candidacy - Lead DevOps Engineer",
+    "applied_role": "Lead DevOps Engineer",
+    "stage": "Offer Consideration",
+    "body": "Hi Sarah and the Recruiting Team,\n\nI am writing to inform you that I have decided to accept an offer with another company and would like to formally withdraw my application for the Lead DevOps Engineer position.\n\nI truly appreciated the opportunity to meet the engineering team. Everyone I spoke with was incredibly kind, insightful, and professional. I hope our paths cross again in the future!\n\nBest of luck with filling the position.\n\nSincerely,\nElena Rostova"
+  },
+  {
+    "id": "MSG-BASE-005",
+    "sender_name": "Tariq Adeleke",
+    "sender_email": "tariq.adeleke@innovateai.tech",
+    "date_received": "2026-10-18T08:05:00Z",
+    "subject": "Quick question regarding remote work policy and office hub",
+    "applied_role": "AI Systems Engineer",
+    "stage": "Application Review",
+    "body": "Good morning,\n\nI submitted my application for the AI Systems Engineer opening yesterday and had a quick clarifying question about the workplace model.\n\nThe job description lists San Francisco and Remote. Does your remote policy allow team members based in Denver, Colorado to work 100% remotely, or is there an in-office attendance requirement for team sprints?\n\nThank you for your time and guidance!\n\nBest,\nTariq Adeleke"
+  },
+  {
+    "id": "MSG-BASE-006",
+    "sender_name": "Aarav Patel",
+    "sender_email": "aarav.patel@securityops.co",
+    "date_received": "2026-10-18T08:50:00Z",
+    "subject": "Timeline check - Security Operations Lead interview",
+    "applied_role": "Security Operations Lead",
+    "stage": "Hiring Manager Interview",
+    "body": "Hi there,\n\nHope all is well. I completed my round with Keith two weeks ago and he mentioned I should expect to hear about the final onsite round by early this week. Just checking in to see if you need any additional portfolio samples or security architecture diagrams from my side.\n\nLooking forward to hearing from you!\n\nRegards,\nAarav Patel"
+  },
+  {
+    "id": "MSG-BASE-007",
+    "sender_name": "Samantha Wright",
+    "sender_email": "swright@fintechsolutions.com",
+    "date_received": "2026-10-18T09:20:00Z",
+    "subject": "Urgent: Need to move tomorrow's panel interview",
+    "applied_role": "Lead Product Manager",
+    "stage": "Virtual Onsite Panel",
+    "body": "Hello Recruiting Team,\n\nI am writing with an unexpected emergency. My daughter was admitted to the urgent care clinic this morning with severe flu symptoms. As a result, I will be unable to attend our 4-person onsite panel scheduled for tomorrow morning starting at 9:30 AM PST.\n\nI am very sorry for the short notice. Can we please reschedule this panel for early next week? Tuesday or Wednesday anytime would work well for me.\n\nWarmly,\nSamantha Wright"
+  },
+  {
+    "id": "MSG-BASE-008",
+    "sender_name": "Liam O'Connor",
+    "sender_email": "liam.oconnor@dublin-eng.ie",
+    "date_received": "2026-10-18T10:15:00Z",
+    "subject": "Visa sponsorship inquiry for Senior Site Reliability Engineer",
+    "applied_role": "Senior Site Reliability Engineer",
+    "stage": "Initial Recruiter Screen",
+    "body": "Dear Hiring Team,\n\nI am thrilled about the SRE role and look forward to speaking with the team. I wanted to verify your sponsorship policies before our introductory call. Does the company currently support H-1B visa transfers or O-1 visa petitions for non-US citizens residing abroad?\n\nThanks in advance for the information.\n\nCheers,\nLiam O'Connor"
+  }
+]
